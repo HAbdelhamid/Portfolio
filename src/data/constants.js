@@ -152,7 +152,7 @@ export const experiences = [
   {
     id: 0,
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAvVBMVEX///8RAADw8PDt7e0tJSQ0LSwAAAANAADk4+NGQUBJRERUUE/29vYmHRwsJCMqISB/fHyamJgeExFwbGwWBgLc29s8NjUaDQrIxsb3xcb509Q2Ly4dEhCkoqKCf3/4zc7xmJq7urrkAADlAA2tq6uKh4d2c3PQz8/td3rtdHfsa2/0sbP63N3yoqTvi4787u/oREnpT1PqWFzlFh/mJy/oIytjZmZgXFu0s7LugoX75ubrZGfzrK70trf3xscb+Dk/AAAEKUlEQVR4nO3ZcVeiShzG8UEZIIVIJFHTq+7NstS81d26udn7f1l3bGEYrPbs4uraOd/PPwXMgI8w8wMUAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+h+oWfCH8bfobdhfQc6zSnLYQDScuvwNjV97uEsbyTJYUXaqEgSy/g8yZjHeY0Kpt1b8RhH9t/ylq1i4THm3VXyU82f5TkHAbZRL6xscpmbBSKSzuJWH1qK7VLrPN5srzbKXvnOr+hYT9Wtr2YmQeY/DP7Z25fF5Xs6d7Ns5LxF4Seq6txTqhla+M+tlK33V1g0LCRpS2DZOWcZI6X+7/zZf8s8heT6B24DaydftJ6LjautB9Z67Un8e3pJOdpELCcdY8kscyP0bn769GwnooQ6vVclVOJzuLBzcOLSnd9Jp9fxy2ezI/5Srh/b1eOHVlMFY3Q2LU0l/TQSaU1vdT+sFM0w/svM52vnyd6YVRZGdHzAfrISa0ZfJa6T9IeJpISy+srioPemEUyaCy2fwAE9r1QEZN8XMJRTs+0/9XHSl747ZfaL6favHYzDzmxeDiJHOhZ591wtg/6cng8cOEDfMqbTt2K980TqQMe+7RiVFR9jSXHmfcPKEbZmJdDtcJrYoYWzKoFxP6qUo/MWeadmQmVDNuoMqFHUbRfmca9ZAhe8krR1c74SQZp5hQzfN9V4a1cVioFunDUKDGaX6MjYSi2q/HcRRKqavSvhImp6l8kJzm8juQNKEYOepMSLPiq0cpVe/VTBu2jGfazYSvhxtdxPnXsK+E7k/2yRKKS3cdppDwqPnwEEm7abZ/L+G6dy/dzQEnFF7PLiYMx+s/kbocjPYbCfXoc2WSBjvchKJqHxcTvhbJmrpUjfbFhA0nnavVGXfS8fAHE+YlpPmgv3sjofCPorcJq5YMjeu0kPBSDV6r3vivX1cXcz1d+QcTurqEHCf5s4WRUN1JX+h/9SuNkSWTfO4tJPSbrq2eKwJVMY7dLNee6mHsvN3sxFrh2cJIaNxejh0njXui9qaHYtuxAmOfl49upBJGbl3H2s9dm1d95yhe/kbT0zVkI2Gu4nkV3dHTTXxv431opX3e6I+MdQd4X/p+wtI+TcJvE3G9GM67T2Iinpbzxe1y2BGDibhbXF+J62t/svi2moqr2bSzvJnNhtPnSdrx0yR8uhWT7nzenYgr8SzWCecr0en6N0u15e7af1o8qRVz/3kuVrPZdNrJXt98moSdoVh1B4PlSgwXL+LFXy1WXbEcipv1lvlU/R10BmK4fFFndrlcdburtONuE5Z45/25xmEs7V8mZawSPgS/3vOjHe7yd4tyvz2t35I9bvGz1Zv97S6hqFbKWF+kpTr+YH8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsL3/ARx5U8dTGrC9AAAAAElFTkSuQmCC",
-    role: "Frontend Engineer Intern",
+    role: "Frontend Developer Intern",
     company: "Fenris agency",
     date: "Aug 2022 - Oct 2022",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI also CMS like Wordpress.",
@@ -161,12 +161,9 @@ export const experiences = [
       "Redux",
       "NodeJs",
       "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
       "CMS: WordPress"
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+    doc: "",
   },
   {
     id: 0,
@@ -174,7 +171,7 @@ export const experiences = [
     role: "Frontend Developer Intern",
     company: "Yogobe",
     date: "Dec 2022 - Apr 2023",
-    desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
+    desc: "During my exciting internship at Yogobe, I took the reins as a Front-End Developer, harnessing the power of Next.js, GraphQL, and Styled Components to craft captivating user experiences. My journey was fueled by transforming intricate designs into elegant front-end components, and I spearheaded the art of refactoring Next.js components for optimized performance.",
     skills: [
       
       
@@ -184,7 +181,7 @@ export const experiences = [
       "Styled Components",
       
     ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    doc: "",
   },
 ];
 
@@ -196,7 +193,7 @@ export const education = [
     date: "Oct 2019 - Sep 2023",
     
     desc: "My journey at Hassan 2 University marked a significant chapter in my academic pursuit. Throughout my studies in Economics, Management, and Finance, I delved into the intricate world of financial systems and business strategies. The comprehensive curriculum provided me with a strong foundation in economic principles, management methodologies, and financial operations. These years of learning not only broadened my perspective but also cultivated my analytical and decision-making skills. My bachelor's degree stands as a testament to my dedication to understanding the complexities of economics and finance, motivating me to continually explore new horizons in the realm of financial management.",
-    degree: "Bachelor of Economics - Managment and finantial",
+    degree: "Bachelor of Economics - Managment and finance",
   },
   {
     id: 1,
@@ -222,7 +219,7 @@ export const projects = [
     title: "rick & morty wiki",
     date: "Dec 2022 - Jan 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "rick & morty wiki is a web application designed to share information about the tv show. It provides a lot of information about the characters, locations and episodes",
     image:
       "https://flxt.tmsimg.com/assets/p10399541_i_h9_aa.jpg",
     tags: [
@@ -243,9 +240,9 @@ export const projects = [
     title: "Weathery",
     date: "Apr 2022 - May 2022",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Developed a web application that allows users to search for weather data or information for any sepecific city or country.",
     image:
-      "https://lh3.googleusercontent.com/pw/AIL4fc8FpGnMGwvrKzKDkgqbQUCeW10PcsWKSZbN6Duae3GeD-kgD7R9117kM0aHXYknHnfS-HKOL25ZiBO5PDZQmOlacKnH38Im6dL-W_hZVjq7usXRyUg9isDK2p5enIa-3qfc_H3V3UHsuqrgVwRe80zvBbD_6tikvA4NMrd3LMEDyFchGW31aJ7OCQebQCDVfKpQ-guEjeGeoA9oDI4i78Um6cGKOz6dZWydPGE1Ftv2AeMY2Al3UzF78Amx8UQAkYxRQy7RNkxsbV3mBzp2ShkO0AVnbYr4Djkzovt-gd-GJzPfC_EnMPJgYOOFeXnrvUxBnKHuS9jWlEjHIJx8cGM0Ed2rqdYaJHmVBzdPhjhK6kyQJIEMYAiblBI7eZgOy-4wDPsxu23C960zx42HbsMIcI6Unk4h2YBAIlypN2i6o3X4BIQ2-42PJOAP79L5xcUMAODfXK-12qwRAu3PtD8hZbDn_QRoPb3Om2TrLtUm39zcvepJsAeV5s8CUird7-gAfUYSnq5QxK1TGDZsoGpu3JKVE5Q-l_zrH4RzAc87UnMAgrcMpOfDU4PHy0e8XDywufJaw_uRzGkhKjHpfN6PKCDjLIH2FaYAeznv4XtBvn6Ay1zEff0fIGJ1mLh7EaKwbyKwn6z1UllDW68zrgWsElOFPPYtoYO1DgUB2H081Ag1fyszR5v2acXGuGJ1r93qr_kAXj6aIz_gA0A38iaQCnWWKozpUq2oi5wE2EwakK0l3q5cIOio8mWmRxPRagIZPGrj9PSc3ipk0jhXAHuqK4pzIK8nPAtfB0INgqfYRVxHaAC1CjKUulKRjvhVuQk9Uidrj5KZRYKQYyfXkMjSISDpkYito1DVTm4-KewleGD2H5iKFKHsTYWOY9Izy9YrAAOheWdl45dTE5tkxrCn7G_oxEQ9z0a5lpmnpXDYrkmpMCHKuziqE4Tc208I4KQtj1IFWrnROO_9y2H6i6Ux9Nhe4o7FbKV0vropzHAMrlJMxZdtM_Y8PZK_N1lp9yurnYrvA2wcOsZ3H3KYNAPWW1oijsZgV5ATaL4QNOaBpDLXX4WWDq4s60tuWq7_=w328-h273-no?authuser=0",
+      "https://raw.githubusercontent.com/gseals/ReactWeatherApp/master/screenshots/Search%20Results%20above%2060.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/HAbdelhamid/Weathery",
@@ -255,12 +252,12 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Vexa",
+    title: "Movie app",
     date: "Oct 2022 - Present",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "Designed and developed Movieland, a project that provide to users basic information about searched movies like date of release titles ect.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://user-images.githubusercontent.com/93200960/221888841-6b34c2b9-ab37-454f-b7f5-1bd8059776c2.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -270,8 +267,8 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/HAbdelhamid/Movies-App",
+    webapp: "https://movielandv2.netlify.app",
   },
   
 ];
