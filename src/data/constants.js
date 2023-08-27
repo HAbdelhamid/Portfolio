@@ -188,13 +188,13 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_UHIIC.png",
-    school: "University Hassan 2",
-    date: "Oct 2019 - Sep 2023",
-    
-    desc: "My journey at Hassan 2 University marked a significant chapter in my academic pursuit. Throughout my studies in Economics, Management, and Finance, I delved into the intricate world of financial systems and business strategies. The comprehensive curriculum provided me with a strong foundation in economic principles, management methodologies, and financial operations. These years of learning not only broadened my perspective but also cultivated my analytical and decision-making skills. My bachelor's degree stands as a testament to my dedication to understanding the complexities of economics and finance, motivating me to continually explore new horizons in the realm of financial management.",
-    degree: "Bachelor of Economics - Managment and finance",
+    img: "https://www.uh1.ac.ma/wp-content/uploads/2021/01/logo6.png",
+    school: "University Hassan 1",
+    date: "Oct 2022 - July 2023",
+    desc: "I earned my Bachelor's Degree in Computer Science, specializing in Full Stack Web Development and DevOps, from Hassan 1 University. This program equipped me with a deep understanding of both front-end and back-end development, along with essential DevOps practices. Through this journey, I developed the skills to create comprehensive digital solutions while ensuring efficient deployment. My time at Hassan 1 University solidified my passion for technology and my readiness to contribute effectively in the dynamic domains of web development and system operations.",
+    degree: "Bachelor of Computer Science, Fullstack Web development & Devops",
   },
+  
   {
     id: 1,
     img: "https://www.laformation.ma/images/300/eco-fllepllxfd2rfs0ibwu25xgfasf28329012016123915.jpg",
@@ -205,11 +205,12 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://www.uh1.ac.ma/wp-content/uploads/2021/01/logo6.png",
-    school: "University Hassan 1",
-    date: "Oct 2022 - July 2023",
-    desc: "I earned my Bachelor's Degree in Computer Science, specializing in Full Stack Web Development and DevOps, from Hassan 1 University. This program equipped me with a deep understanding of both front-end and back-end development, along with essential DevOps practices. Through this journey, I developed the skills to create comprehensive digital solutions while ensuring efficient deployment. My time at Hassan 1 University solidified my passion for technology and my readiness to contribute effectively in the dynamic domains of web development and system operations.",
-    degree: "Bachelor of Computer Science, Fullstack Web development & Devops",
+    img: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_UHIIC.png",
+    school: "University Hassan 2",
+    date: "Oct 2019 - Sep 2023",
+    
+    desc: "My journey at Hassan 2 University marked a significant chapter in my academic pursuit. Throughout my studies in Economics, Management, and Finance, I delved into the intricate world of financial systems and business strategies. The comprehensive curriculum provided me with a strong foundation in economic principles, management methodologies, and financial operations. These years of learning not only broadened my perspective but also cultivated my analytical and decision-making skills. My bachelor's degree stands as a testament to my dedication to understanding the complexities of economics and finance, motivating me to continually explore new horizons in the realm of financial management.",
+    degree: "Bachelor of Economics - Managment and finance",
   },
 ];
 
