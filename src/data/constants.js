@@ -234,7 +234,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/HAbdelhamid/rick-morty-wiki",
-    webapp: "rick-morty-wiki-red.vercel.app",
+    webapp: "https://rick-morty-api-nextjs.vercel.app",
   },
   {
     id: 0,
