@@ -1,11 +1,6 @@
 export const Bio = {
   name: "Abdelhamid Hamza",
-  roles: [
-    "Software Developer",
-    
-    "UI/UX Designer",
-    
-  ],
+  roles: ["Software Developer", "UI/UX Designer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/HAbdelhamid",
@@ -13,7 +8,6 @@ export const Bio = {
     "https://drive.google.com/file/d/1IVk1L8gy-gX5roiTegfhN7cebDCHJjHs/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abdelhamid-hamza/",
   twitter: "https://twitter.com/ABDELHAMID_DEV",
-  
 };
 
 export const skills = [
@@ -59,7 +53,6 @@ export const skills = [
         image:
           "data:image/png;base64,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",
       },
-      
     ],
   },
   {
@@ -88,7 +81,7 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
-      
+
       {
         name: "MongoDB",
         image:
@@ -148,7 +141,6 @@ export const skills = [
 ];
 
 export const experiences = [
-  
   {
     id: 0,
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAvVBMVEX///8RAADw8PDt7e0tJSQ0LSwAAAANAADk4+NGQUBJRERUUE/29vYmHRwsJCMqISB/fHyamJgeExFwbGwWBgLc29s8NjUaDQrIxsb3xcb509Q2Ly4dEhCkoqKCf3/4zc7xmJq7urrkAADlAA2tq6uKh4d2c3PQz8/td3rtdHfsa2/0sbP63N3yoqTvi4787u/oREnpT1PqWFzlFh/mJy/oIytjZmZgXFu0s7LugoX75ubrZGfzrK70trf3xscb+Dk/AAAEKUlEQVR4nO3ZcVeiShzG8UEZIIVIJFHTq+7NstS81d26udn7f1l3bGEYrPbs4uraOd/PPwXMgI8w8wMUAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+h+oWfCH8bfobdhfQc6zSnLYQDScuvwNjV97uEsbyTJYUXaqEgSy/g8yZjHeY0Kpt1b8RhH9t/ylq1i4THm3VXyU82f5TkHAbZRL6xscpmbBSKSzuJWH1qK7VLrPN5srzbKXvnOr+hYT9Wtr2YmQeY/DP7Z25fF5Xs6d7Ns5LxF4Seq6txTqhla+M+tlK33V1g0LCRpS2DZOWcZI6X+7/zZf8s8heT6B24DaydftJ6LjautB9Z67Un8e3pJOdpELCcdY8kscyP0bn769GwnooQ6vVclVOJzuLBzcOLSnd9Jp9fxy2ezI/5Srh/b1eOHVlMFY3Q2LU0l/TQSaU1vdT+sFM0w/svM52vnyd6YVRZGdHzAfrISa0ZfJa6T9IeJpISy+srioPemEUyaCy2fwAE9r1QEZN8XMJRTs+0/9XHSl747ZfaL6favHYzDzmxeDiJHOhZ591wtg/6cng8cOEDfMqbTt2K980TqQMe+7RiVFR9jSXHmfcPKEbZmJdDtcJrYoYWzKoFxP6qUo/MWeadmQmVDNuoMqFHUbRfmca9ZAhe8krR1c74SQZp5hQzfN9V4a1cVioFunDUKDGaX6MjYSi2q/HcRRKqavSvhImp6l8kJzm8juQNKEYOepMSLPiq0cpVe/VTBu2jGfazYSvhxtdxPnXsK+E7k/2yRKKS3cdppDwqPnwEEm7abZ/L+G6dy/dzQEnFF7PLiYMx+s/kbocjPYbCfXoc2WSBjvchKJqHxcTvhbJmrpUjfbFhA0nnavVGXfS8fAHE+YlpPmgv3sjofCPorcJq5YMjeu0kPBSDV6r3vivX1cXcz1d+QcTurqEHCf5s4WRUN1JX+h/9SuNkSWTfO4tJPSbrq2eKwJVMY7dLNee6mHsvN3sxFrh2cJIaNxejh0njXui9qaHYtuxAmOfl49upBJGbl3H2s9dm1d95yhe/kbT0zVkI2Gu4nkV3dHTTXxv431opX3e6I+MdQd4X/p+wtI+TcJvE3G9GM67T2Iinpbzxe1y2BGDibhbXF+J62t/svi2moqr2bSzvJnNhtPnSdrx0yR8uhWT7nzenYgr8SzWCecr0en6N0u15e7af1o8qRVz/3kuVrPZdNrJXt98moSdoVh1B4PlSgwXL+LFXy1WXbEcipv1lvlU/R10BmK4fFFndrlcdburtONuE5Z45/25xmEs7V8mZawSPgS/3vOjHe7yd4tyvz2t35I9bvGz1Zv97S6hqFbKWF+kpTr+YH8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsL3/ARx5U8dTGrC9AAAAAElFTkSuQmCC",
@@ -156,30 +148,22 @@ export const experiences = [
     company: "Fenris agency",
     date: "Aug 2022 - Oct 2022",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI also CMS like Wordpress.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "CMS: WordPress"
-    ],
+    skills: ["ReactJS", "Redux", "NodeJs", "Material UI", "CMS: WordPress"],
     doc: "",
   },
   {
     id: 0,
     img: "https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/b1/11/04/b1110458-2fc8-7205-fe45-5e695c8118ef/source/512x512bb.jpg",
-    role: "Frontend Developer Intern",
+    role: "Frontend Developer",
     company: "Yogobe",
     date: "Dec 2022 - Apr 2023",
     desc: "During my exciting internship at Yogobe, I took the reins as a Front-End Developer, harnessing the power of Next.js, GraphQL, and Styled Components to craft captivating user experiences. My journey was fueled by transforming intricate designs into elegant front-end components, and I spearheaded the art of refactoring Next.js components for optimized performance.",
     skills: [
-      
-      
       "Next Js",
+      "HTML/CSS",
       "TypeScript",
       "GraphQL",
       "Styled Components",
-      
     ],
     doc: "",
   },
@@ -194,7 +178,7 @@ export const education = [
     desc: "I earned my Bachelor's Degree in Computer Science, specializing in Full Stack Web Development and DevOps, from Hassan 1 University. This program equipped me with a deep understanding of both front-end and back-end development, along with essential DevOps practices. Through this journey, I developed the skills to create comprehensive digital solutions while ensuring efficient deployment. My time at Hassan 1 University solidified my passion for technology and my readiness to contribute effectively in the dynamic domains of web development and system operations.",
     degree: "Bachelor of Computer Science, Fullstack Web development & Devops",
   },
-  
+
   {
     id: 1,
     img: "https://www.laformation.ma/images/300/eco-fllepllxfd2rfs0ibwu25xgfasf28329012016123915.jpg",
@@ -208,7 +192,7 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_UHIIC.png",
     school: "University Hassan 2",
     date: "Oct 2019 - Sep 2023",
-    
+
     desc: "My journey at Hassan 2 University marked a significant chapter in my academic pursuit. Throughout my studies in Economics, Management, and Finance, I delved into the intricate world of financial systems and business strategies. The comprehensive curriculum provided me with a strong foundation in economic principles, management methodologies, and financial operations. These years of learning not only broadened my perspective but also cultivated my analytical and decision-making skills. My bachelor's degree stands as a testament to my dedication to understanding the complexities of economics and finance, motivating me to continually explore new horizons in the realm of financial management.",
     degree: "Bachelor of Economics - Managment and finance",
   },
@@ -216,22 +200,27 @@ export const education = [
 
 export const projects = [
   {
+    id: 0,
+    title: "CarHub",
+    date: "Nov 2023 - Jan 2023",
+    description:
+      "CarHub is a web application that allows users to search for cars and get information about them like price, model, year, etc.",
+    image:
+      "https://lh3.googleusercontent.com/pw/ADCreHeOcrmBt8v6v4PqL13nWzbhlOUAt4lms0PQa0J-xrtzEx0hULMC2dQUvGu5TzIbxxTGUAcoItI9wPv9dD5NeoTM5t3cijpbu07xErPyQIQuCQULh-cX5N9WE567HY38CHa009bCAIHlAnDjbeTqTO5AUUienTeQk0kwj3-6T3MrmKSVpFYK3KSvWM5MF8Sb8DtIGmNSU0W1V279qK9pOJ56aZw0ZJbFfCJHOk9kqiL3NCGoaPbX3h45IVl20ACKFWzZdr_HZT3ZVpCTjdZiCje6spTRjcgKhy1eKdDJkqhlfqBvZ7yW0idp25X9mATX1cqdC9IZ99l1PJ1LmcaFKc0DQlzbNw0rBHoivj2VxUKlIeWlrd441ieSjMfY0_cqvk2wBq91EN2DCgomnzvAyQ74RsPFQK9gJOKgvW4fKwsCDTnMfanzfXScnLDKtYVdx88KPWyEbaqvTspZ9YPIxSYVLSVTE7MvwLX8m_4-z5rMrFirw9VD2q6VAdJNZeXiHyA61QoHfisgaEvxjeLSWWTOlfV5uh8fAtqbmBxG2n2BD3ddlARQ-MjbtcBuX4ISoKGeqMNtJwvHjlpJwgKaijWl4X95flJsnSZS8VSg0ze8H8fPo7le8tJiD53bgFEWDoSeFIsXqJlLvWaGbV7-ftN9YCz-HMJ8QO1QsTPOgyM4hZpvz2NMbAU0AHecisFdd5qH7gDVb_qAHcsInfszJqKqUf1JSBwm4v__RyfOzpNg37UdiEp13gwOxn26Ke4vZmag5K57QifFGgfG9bIBigF8ADQuXpZeT1FCCd7FCWdRmG6VRRHLjRuPeCgxh0giY9wcD8VAuMNTXqY5T0_TlcB_XMrS9igSr7cyCVEvK5DvDys-dlHgCLrriP4FEcQBCXoMvtK1LUQY66EjJ0UZWtuJ2cLELClhh6D6nvAL8jAc-9O08B4=w1419-h728-s-no?authuser=0",
+    tags: ["Next Js", "React Js", "Redux", "GraphQL", "Tailwind CSS"],
+    category: "web app",
+    github: "https://github.com/HAbdelhamid/CarHub",
+    webapp: "https://car-hub-habdelhamid.vercel.app",
+  },
+  {
     id: 9,
     title: "rick & morty wiki",
     date: "Dec 2022 - Jan 2023",
     description:
       "rick & morty wiki is a web application designed to share information about the tv show. It provides a lot of information about the characters, locations and episodes",
     image:
-      "https://flxt.tmsimg.com/assets/p10399541_i_h9_aa.jpg",
-    tags: [
-      "Next Js",
-      "React Js",
-      "Redux",
-      "GraphQL",
-      "Node Js",
-      "Express Js",
-      "Eslint",
-    ],
+      "https://lh3.googleusercontent.com/pw/ADCreHe1sQoO6jThLsPWrxwT0awg20yjOIBnbDE5uOGzqWStCl7Auw_7OoDdhGFz99XDWr_BzWe_0FFMVjaNWWBhUqnhFMuAhH--lyqSe2kjyeXW3GzKJZkpyvjrwWZ9QbLG2JpsZ7Q_fZgrTBjr86920nuUw187MlhiGPDCz-avZ9EWqN7mGHPCbaAbdxnQ6CEj19eddRr0qjNfvnAlof9pMkUcS9ui54w7ZEv2gwiQiknZfMBxNn0bu0a1w8LHRTUaGzqY0QUlppol5WhAIFvQuSK_7WiQuYbr-OOjhR9eCGSlj27E_ybdEitP2Gde00XMIhQ9PRj7jmgja90jF8b8KxmH_-zeFxSQ_aKU7Twui4e_l_GBQFie18R8fnLqEk6ygzO7VMPtHLbTIxJKXSBxo823Xl7pYKWC-T4Sk0ersQG0XncQSNRXEo5CMKFORvVbddsDhUbUFpVWetGQGEfCbkqsbU-gwMO4gefo6EnYG9s8SO5622YXZWF0KFBihZoJ1faDedJlzeRQLRP-tiBAXj1X0my2zpos7yil2GzpxrlNdCHrqtquvpwdYpFL7fyiMFbb2B0LqUV1eNyaM8Yevtz5_GQQ9uhFkeZUHe_-mD4R1daMLhNGa4hYeDwTnRi90lahC12yzqIPgMLEgt52AgmR6V5dFSxWhGt3yWc-OhbZ46LuH8yd5NdvzBIyvcjuPiJpqua4zGIgN0nj3JHEWIRqXUTZhi-_MbfOiB4piZhOI3Qf0nDLIt6KSPinK6C_9LgPcY8cOwnDkQT2QPF3TLm69upyrQLrG0Es5aVZMhTxRwNS4wH3p7Rk6cMDkPaVpo9TZX2vap-VbKKqGwOHyy2cVU10VKhe4XyphNzkyeDIvYGN6lrSShR8NOLu4Od90iV53oWq48yy2_TC1b-u-O4yRW0acHP812geeBqSjNzKvioZjdM=w1419-h726-s-no?authuser=0",
+    tags: ["Next Js", "React Js", "Redux", "GraphQL", "Tailwind CSS"],
     category: "web app",
     github: "https://github.com/HAbdelhamid/rick-morty-wiki",
     webapp: "https://rick-morty-api-nextjs.vercel.app",
@@ -248,13 +237,11 @@ export const projects = [
     category: "web app",
     github: "https://github.com/HAbdelhamid/Weathery",
     webapp: "https://habdelhamid.github.io/Weathery/",
-    
-    
   },
   {
     id: 1,
     title: "Movie app",
-    date: "Oct 2022 - Present",
+    date: "Oct 2022 - Oct 2022",
     description:
       "Designed and developed Movieland, a project that provide to users basic information about searched movies like date of release titles ect.",
     image:
@@ -271,7 +258,6 @@ export const projects = [
     github: "https://github.com/HAbdelhamid/Movies-App",
     webapp: "https://movielandv2.netlify.app",
   },
-  
 ];
 
 export const TimeLineData = [
