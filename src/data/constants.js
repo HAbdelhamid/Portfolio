@@ -205,8 +205,7 @@ export const projects = [
     date: "Nov 2023 - Jan 2023",
     description:
       "CarHub is a web application that allows users to search for cars and get information about them like price, model, year, etc.",
-    image:
-      "https://lh3.googleusercontent.com/pw/ADCreHeOcrmBt8v6v4PqL13nWzbhlOUAt4lms0PQa0J-xrtzEx0hULMC2dQUvGu5TzIbxxTGUAcoItI9wPv9dD5NeoTM5t3cijpbu07xErPyQIQuCQULh-cX5N9WE567HY38CHa009bCAIHlAnDjbeTqTO5AUUienTeQk0kwj3-6T3MrmKSVpFYK3KSvWM5MF8Sb8DtIGmNSU0W1V279qK9pOJ56aZw0ZJbFfCJHOk9kqiL3NCGoaPbX3h45IVl20ACKFWzZdr_HZT3ZVpCTjdZiCje6spTRjcgKhy1eKdDJkqhlfqBvZ7yW0idp25X9mATX1cqdC9IZ99l1PJ1LmcaFKc0DQlzbNw0rBHoivj2VxUKlIeWlrd441ieSjMfY0_cqvk2wBq91EN2DCgomnzvAyQ74RsPFQK9gJOKgvW4fKwsCDTnMfanzfXScnLDKtYVdx88KPWyEbaqvTspZ9YPIxSYVLSVTE7MvwLX8m_4-z5rMrFirw9VD2q6VAdJNZeXiHyA61QoHfisgaEvxjeLSWWTOlfV5uh8fAtqbmBxG2n2BD3ddlARQ-MjbtcBuX4ISoKGeqMNtJwvHjlpJwgKaijWl4X95flJsnSZS8VSg0ze8H8fPo7le8tJiD53bgFEWDoSeFIsXqJlLvWaGbV7-ftN9YCz-HMJ8QO1QsTPOgyM4hZpvz2NMbAU0AHecisFdd5qH7gDVb_qAHcsInfszJqKqUf1JSBwm4v__RyfOzpNg37UdiEp13gwOxn26Ke4vZmag5K57QifFGgfG9bIBigF8ADQuXpZeT1FCCd7FCWdRmG6VRRHLjRuPeCgxh0giY9wcD8VAuMNTXqY5T0_TlcB_XMrS9igSr7cyCVEvK5DvDys-dlHgCLrriP4FEcQBCXoMvtK1LUQY66EjJ0UZWtuJ2cLELClhh6D6nvAL8jAc-9O08B4=w1419-h728-s-no?authuser=0",
+    image: "https://i.ibb.co/12TFZQc/Screenshot-2023-11-08-143101.png",
     tags: ["Next Js", "React Js", "Redux", "GraphQL", "Tailwind CSS"],
     category: "web app",
     github: "https://github.com/HAbdelhamid/CarHub",
@@ -218,8 +217,7 @@ export const projects = [
     date: "Dec 2022 - Jan 2023",
     description:
       "rick & morty wiki is a web application designed to share information about the tv show. It provides a lot of information about the characters, locations and episodes",
-    image:
-      "https://lh3.googleusercontent.com/pw/ADCreHe1sQoO6jThLsPWrxwT0awg20yjOIBnbDE5uOGzqWStCl7Auw_7OoDdhGFz99XDWr_BzWe_0FFMVjaNWWBhUqnhFMuAhH--lyqSe2kjyeXW3GzKJZkpyvjrwWZ9QbLG2JpsZ7Q_fZgrTBjr86920nuUw187MlhiGPDCz-avZ9EWqN7mGHPCbaAbdxnQ6CEj19eddRr0qjNfvnAlof9pMkUcS9ui54w7ZEv2gwiQiknZfMBxNn0bu0a1w8LHRTUaGzqY0QUlppol5WhAIFvQuSK_7WiQuYbr-OOjhR9eCGSlj27E_ybdEitP2Gde00XMIhQ9PRj7jmgja90jF8b8KxmH_-zeFxSQ_aKU7Twui4e_l_GBQFie18R8fnLqEk6ygzO7VMPtHLbTIxJKXSBxo823Xl7pYKWC-T4Sk0ersQG0XncQSNRXEo5CMKFORvVbddsDhUbUFpVWetGQGEfCbkqsbU-gwMO4gefo6EnYG9s8SO5622YXZWF0KFBihZoJ1faDedJlzeRQLRP-tiBAXj1X0my2zpos7yil2GzpxrlNdCHrqtquvpwdYpFL7fyiMFbb2B0LqUV1eNyaM8Yevtz5_GQQ9uhFkeZUHe_-mD4R1daMLhNGa4hYeDwTnRi90lahC12yzqIPgMLEgt52AgmR6V5dFSxWhGt3yWc-OhbZ46LuH8yd5NdvzBIyvcjuPiJpqua4zGIgN0nj3JHEWIRqXUTZhi-_MbfOiB4piZhOI3Qf0nDLIt6KSPinK6C_9LgPcY8cOwnDkQT2QPF3TLm69upyrQLrG0Es5aVZMhTxRwNS4wH3p7Rk6cMDkPaVpo9TZX2vap-VbKKqGwOHyy2cVU10VKhe4XyphNzkyeDIvYGN6lrSShR8NOLu4Od90iV53oWq48yy2_TC1b-u-O4yRW0acHP812geeBqSjNzKvioZjdM=w1419-h726-s-no?authuser=0",
+    image: "https://i.ibb.co/qJHLGnw/Screenshot-2023-11-08-144949.png",
     tags: ["Next Js", "React Js", "Redux", "GraphQL", "Tailwind CSS"],
     category: "web app",
     github: "https://github.com/HAbdelhamid/rick-morty-wiki",
