@@ -219,6 +219,20 @@ export const projects = [
     github: "https://github.com/HAbdelhamid/e-shopy",
     webapp: "https://next-e-commerce-example.vercel.app",
   },
+
+  {
+    id: 1,
+    title: "Shoppy-dashboard",
+    date: "Sept 2022",
+    description:
+      "Shoppy-dashboard is an e-commerce dashboard web application that allows admins to manage their products, orders, and customers. ",
+    image:
+      "https://camo.githubusercontent.com/cda724c029d18a6d35b81f8f0dcb7acc5764a703d03fc8fef687d6d7dce46405/68747470733a2f2f692e6962622e636f2f573667333977332f696d6167652e706e67",
+    tags: ["React Js", "Redux", "Tailwind CSS"],
+    category: "web app",
+    github: "https://github.com/HAbdelhamid/Shoppy-dashboard",
+    webapp: "https://https://shoppy-dashboardy.netlify.app.com",
+  },
   {
     id: 1,
     title: "Camp Traveler",
