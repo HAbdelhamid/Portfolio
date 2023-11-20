@@ -201,6 +201,38 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "e-shopy",
+    date: "Nov 2023",
+    description:
+      "e-shopy is an e-commerce web application that allows users to search for products and get information about them like price, model, year they also can add products to cart and checkout. ",
+    image:
+      "https://i.ibb.co/nrLwBdx/68747470733a2f2f692e6962622e636f2f5a7a473347744e2f696e6465782e706e67.png",
+    tags: [
+      "Next Js",
+      "React Js",
+      "Redux",
+      "GraphQL",
+      "Tailwind CSS",
+      "MongoDB",
+    ],
+    category: "web app",
+    github: "https://github.com/HAbdelhamid/e-shopy",
+    webapp: "https://next-e-commerce-example.vercel.app",
+  },
+  {
+    id: 1,
+    title: "Camp Traveler",
+    date: "Sept 2023 ",
+    description:
+      "Camp Traveler helps you find great places to camp and explore the outdoors. You can search for campgrounds by state, city or even nearby. ",
+    image: "https://i.ibb.co/fXHYG7J/Screenshot-2023-11-19-220626.png",
+    tags: ["Next Js", "React Js", "Redux", "Tailwind CSS"],
+    category: "web app",
+    github: "https://github.com/HAbdelhamid/camping-website",
+    webapp: "https://camptraveler.com",
+  },
+  {
+    id: 2,
     title: "CarHub",
     date: "Nov 2023 - Jan 2023",
     description:
@@ -224,7 +256,7 @@ export const projects = [
     webapp: "https://rick-morty-api-nextjs.vercel.app",
   },
   {
-    id: 0,
+    id: 5,
     title: "Weathery",
     date: "Apr 2022 - May 2022",
     description:
@@ -234,16 +266,15 @@ export const projects = [
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/HAbdelhamid/Weathery",
-    webapp: "https://habdelhamid.github.io/Weathery/",
+    webapp: "https://theweatherapp-theta.vercel.app",
   },
   {
-    id: 1,
-    title: "Movie app",
+    id: 10,
+    title: "Netfilm",
     date: "Oct 2022 - Oct 2022",
     description:
-      "Designed and developed Movieland, a project that provide to users basic information about searched movies like date of release titles ect.",
-    image:
-      "https://user-images.githubusercontent.com/93200960/221888841-6b34c2b9-ab37-454f-b7f5-1bd8059776c2.png",
+      "Netfilm is a project that provide to users with information about searched movies like date of release titles and also can watch movies and tv-shows ect.",
+    image: "https://i.ibb.co/zStLcFb/Screenshot-2023-11-19-223347.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -253,8 +284,8 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/HAbdelhamid/Movies-App",
-    webapp: "https://movielandv2.netlify.app",
+    github: "https://github.com/HAbdelhamid/Movie-app",
+    webapp: "https://netfilm.app",
   },
 ];
 
