@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/HAbdelhamid",
   resume:
-    "https://drive.google.com/file/d/1JDbCY9pGl2xc7NxmtlWTXz7TOyqoV2yc/view?usp=drive_link",
+    "https://drive.google.com/file/d/1oot_S8c0iA7UrPBNvdFHKhbfQyBAlTxj/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abdelhamid-hamza/",
   twitter: "https://twitter.com/ABDELHAMID_DEV",
 };
@@ -146,7 +146,7 @@ export const experiences = [
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAvVBMVEX///8RAADw8PDt7e0tJSQ0LSwAAAANAADk4+NGQUBJRERUUE/29vYmHRwsJCMqISB/fHyamJgeExFwbGwWBgLc29s8NjUaDQrIxsb3xcb509Q2Ly4dEhCkoqKCf3/4zc7xmJq7urrkAADlAA2tq6uKh4d2c3PQz8/td3rtdHfsa2/0sbP63N3yoqTvi4787u/oREnpT1PqWFzlFh/mJy/oIytjZmZgXFu0s7LugoX75ubrZGfzrK70trf3xscb+Dk/AAAEKUlEQVR4nO3ZcVeiShzG8UEZIIVIJFHTq+7NstS81d26udn7f1l3bGEYrPbs4uraOd/PPwXMgI8w8wMUAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+h+oWfCH8bfobdhfQc6zSnLYQDScuvwNjV97uEsbyTJYUXaqEgSy/g8yZjHeY0Kpt1b8RhH9t/ylq1i4THm3VXyU82f5TkHAbZRL6xscpmbBSKSzuJWH1qK7VLrPN5srzbKXvnOr+hYT9Wtr2YmQeY/DP7Z25fF5Xs6d7Ns5LxF4Seq6txTqhla+M+tlK33V1g0LCRpS2DZOWcZI6X+7/zZf8s8heT6B24DaydftJ6LjautB9Z67Un8e3pJOdpELCcdY8kscyP0bn769GwnooQ6vVclVOJzuLBzcOLSnd9Jp9fxy2ezI/5Srh/b1eOHVlMFY3Q2LU0l/TQSaU1vdT+sFM0w/svM52vnyd6YVRZGdHzAfrISa0ZfJa6T9IeJpISy+srioPemEUyaCy2fwAE9r1QEZN8XMJRTs+0/9XHSl747ZfaL6favHYzDzmxeDiJHOhZ591wtg/6cng8cOEDfMqbTt2K980TqQMe+7RiVFR9jSXHmfcPKEbZmJdDtcJrYoYWzKoFxP6qUo/MWeadmQmVDNuoMqFHUbRfmca9ZAhe8krR1c74SQZp5hQzfN9V4a1cVioFunDUKDGaX6MjYSi2q/HcRRKqavSvhImp6l8kJzm8juQNKEYOepMSLPiq0cpVe/VTBu2jGfazYSvhxtdxPnXsK+E7k/2yRKKS3cdppDwqPnwEEm7abZ/L+G6dy/dzQEnFF7PLiYMx+s/kbocjPYbCfXoc2WSBjvchKJqHxcTvhbJmrpUjfbFhA0nnavVGXfS8fAHE+YlpPmgv3sjofCPorcJq5YMjeu0kPBSDV6r3vivX1cXcz1d+QcTurqEHCf5s4WRUN1JX+h/9SuNkSWTfO4tJPSbrq2eKwJVMY7dLNee6mHsvN3sxFrh2cJIaNxejh0njXui9qaHYtuxAmOfl49upBJGbl3H2s9dm1d95yhe/kbT0zVkI2Gu4nkV3dHTTXxv431opX3e6I+MdQd4X/p+wtI+TcJvE3G9GM67T2Iinpbzxe1y2BGDibhbXF+J62t/svi2moqr2bSzvJnNhtPnSdrx0yR8uhWT7nzenYgr8SzWCecr0en6N0u15e7af1o8qRVz/3kuVrPZdNrJXt98moSdoVh1B4PlSgwXL+LFXy1WXbEcipv1lvlU/R10BmK4fFFndrlcdburtONuE5Z45/25xmEs7V8mZawSPgS/3vOjHe7yd4tyvz2t35I9bvGz1Zv97S6hqFbKWF+kpTr+YH8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsL3/ARx5U8dTGrC9AAAAAElFTkSuQmCC",
     role: "Frontend Developer Intern",
     company: "Fenris agency",
-    date: "Aug 2022 - Oct 2022",
+    date: "Jul 2022 - Sep 2022",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI also CMS like Wordpress.",
     skills: ["ReactJS", "Redux", "NodeJs", "Material UI", "CMS: WordPress"],
     doc: "",
@@ -156,7 +156,7 @@ export const experiences = [
     img: "https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/b1/11/04/b1110458-2fc8-7205-fe45-5e695c8118ef/source/512x512bb.jpg",
     role: "Frontend Developer",
     company: "Yogobe",
-    date: "Dec 2022 - Apr 2023",
+    date: "Dec 2022 - Present",
     desc: "During my exciting internship at Yogobe, I took the reins as a Front-End Developer, harnessing the power of Next.js, GraphQL, and Styled Components to craft captivating user experiences. My journey was fueled by transforming intricate designs into elegant front-end components, and I spearheaded the art of refactoring Next.js components for optimized performance.",
     skills: [
       "Next Js",
@@ -185,7 +185,7 @@ export const education = [
     school: "InfoDesign",
     date: "Oct 2020 - July 2022",
     desc: "Obtaining my associate degree from Infodesign was a pivotal achievement. Over two years, I immersed myself in the world of Web Development, UI, and UX Design, gaining a solid grasp of both the technical and creative aspects. This experience not only sharpened my skills but also deepened my passion for crafting seamless digital experiences. This associate degree underscores my dedication to mastering the intricacies of web development and design, propelling me towards continued growth and innovation in the field.",
-    degree: "Associate degree , Computer Science",
+    degree: "Diploma of Specialized Technician in Computer Science",
   },
   {
     id: 2,
@@ -194,7 +194,7 @@ export const education = [
     date: "Oct 2019 - Sep 2023",
 
     desc: "My journey at Hassan 2 University marked a significant chapter in my academic pursuit. Throughout my studies in Economics, Management, and Finance, I delved into the intricate world of financial systems and business strategies. The comprehensive curriculum provided me with a strong foundation in economic principles, management methodologies, and financial operations. These years of learning not only broadened my perspective but also cultivated my analytical and decision-making skills. My bachelor's degree stands as a testament to my dedication to understanding the complexities of economics and finance, motivating me to continually explore new horizons in the realm of financial management.",
-    degree: "Bachelor of Economics - Managment and finance",
+    degree: "Diploma in Economics and Management",
   },
 ];
 
