@@ -237,19 +237,7 @@ export const projects = [
     webapp: "https://next-e-commerce-example.vercel.app",
   },
 
-  {
-    id: 1,
-    title: "Shoppy-dashboard",
-    date: "Sept 2022",
-    description:
-      "Shoppy-dashboard is an e-commerce dashboard web application that allows admins to manage their products, orders, and customers. ",
-    image:
-      "https://camo.githubusercontent.com/cda724c029d18a6d35b81f8f0dcb7acc5764a703d03fc8fef687d6d7dce46405/68747470733a2f2f692e6962622e636f2f573667333977332f696d6167652e706e67",
-    tags: ["React Js", "Redux", "Tailwind CSS"],
-    category: "web app",
-    github: "https://github.com/HAbdelhamid/Shoppy-dashboard",
-    webapp: "https://https://shoppy-dashboardy.netlify.app.com",
-  },
+  
   {
     id: 1,
     title: "Camp Traveler",
@@ -280,11 +268,11 @@ export const projects = [
     date: "Dec 2022 - Jan 2023",
     description:
       "rick & morty wiki is a web application designed to share information about the tv show. It provides a lot of information about the characters, locations and episodes",
-    image: "https://i.ibb.co/qJHLGnw/Screenshot-2023-11-08-144949.png",
-    tags: ["Next Js", "React Js", "Redux", "GraphQL", "Tailwind CSS"],
+    image: "https://photos.app.goo.gl/FZWAXwSMXQjfKXpy6",
+    tags: ["React Js", "Redux", "GraphQL", "Tailwind CSS"],
     category: "web app",
     github: "https://github.com/HAbdelhamid/rick-morty-wiki",
-    webapp: "https://rick-morty-api-nextjs.vercel.app",
+    webapp: "https://react-projects-psi.vercel.app/",
   },
   {
     id: 5,
