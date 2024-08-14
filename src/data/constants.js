@@ -268,7 +268,7 @@ export const projects = [
     date: "Dec 2022 - Jan 2023",
     description:
       "rick & morty wiki is a web application designed to share information about the tv show. It provides a lot of information about the characters, locations and episodes",
-    image: "https://photos.app.goo.gl/FZWAXwSMXQjfKXpy6",
+    image: "https://photos.fife.usercontent.google.com/pw/AP1GczMKKrx8-x3wKgMX25v5AqOmj-nNTOQdukLraKVYa6T3XjRj2f4vgkU=w1348-h623-s-no-gm?authuser=0",
     tags: ["React Js", "Redux", "GraphQL", "Tailwind CSS"],
     category: "web app",
     github: "https://github.com/HAbdelhamid/rick-morty-wiki",
