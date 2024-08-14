@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/HAbdelhamid",
   resume:
-    "https://drive.google.com/file/d/1oot_S8c0iA7UrPBNvdFHKhbfQyBAlTxj/view?usp=sharing",
+    "https://drive.google.com/file/d/15LzegItMj0qHr0kMOVIlGQ-11638CGCQ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abdelhamid-hamza/",
   twitter: "https://twitter.com/ABDELHAMID_DEV",
 };
@@ -99,7 +99,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGp2RKrzqJF2Cu3dxnk2RGK_F7SSloJG-Wyw&s",
       },
       {
         name: "GitHub",
@@ -124,17 +124,17 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png",
       },
       {
         name: "Adobe XD",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "https://digitaltech.ma/wp-content/uploads/2024/04/Adobe-XD.png",
       },
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://s3-alpha.figma.com/hub/file/1166690750/85f69649-5387-44c2-ba45-81ae13812e36-cover.png",
       },
     ],
   },
@@ -147,16 +147,16 @@ export const experiences = [
     role: "Frontend Developer Intern",
     company: "Fenris agency",
     date: "Jul 2022 - Sep 2022",
-    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI also CMS like Wordpress.",
+    desc: "I gained expertise in HTML, CSS, JavaScript, React, and Bootstrap while developing custom WordPress themes, where I significantly improved website performance. Through careful optimization, I achieved a 40% increase in loading speed and user engagement. Additionally, I successfully integrated third-party APIs, which enhanced website functionality and drove a 25% increase in user interactions.",
     skills: ["ReactJS", "Redux", "NodeJs", "Material UI", "CMS: WordPress"],
     doc: "",
   },
   {
-    id: 0,
+    id: 1,
     img: "https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/b1/11/04/b1110458-2fc8-7205-fe45-5e695c8118ef/source/512x512bb.jpg",
     role: "Frontend Developer",
     company: "Yogobe",
-    date: "Dec 2022 - Present",
+    date: "Dec 2022 - April 2023",
     desc: "During my exciting internship at Yogobe, I took the reins as a Front-End Developer, harnessing the power of Next.js, GraphQL, and Styled Components to craft captivating user experiences. My journey was fueled by transforming intricate designs into elegant front-end components, and I spearheaded the art of refactoring Next.js components for optimized performance.",
     skills: [
       "Next Js",
@@ -167,20 +167,27 @@ export const experiences = [
     ],
     doc: "",
   },
+  {
+    id: 2,
+    img: "https://media.licdn.com/dms/image/D560BAQHhSRkwAPB8oA/company-logo_200_200/0/1719255985352/yallalearn_logo?e=1731542400&v=beta&t=hRHy95jUspi-kvRtaZYDVVpTZmoR3jHcrUGfSDoQKiI",
+    role: "Frontend Developer",
+    company: "Yallalearn",
+    date: "May 2024 - Present",
+    desc: "Develop responsive websites using React.js and Next.js, ensuring seamless user experiences across various devices and screen sizes.Ensure cross-browser compatibility, delivering consistent functionality and design across all major browsers. Contribute to Agile development by actively participating in sprint planning, daily stand-ups, and retrospective meetings. Support timely feature delivery by collaborating closely with team members and adhering to Agile practices.",
+    skills: [
+      "Next Js",
+      "HTML/CSS",
+      "TypeScript",
+      "Tailwind CSS",
+    ],
+    doc: "",
+  },
+  
 ];
 
 export const education = [
   {
     id: 0,
-    img: "https://www.uh1.ac.ma/wp-content/uploads/2021/01/logo6.png",
-    school: "University Hassan 1",
-    date: "Oct 2022 - July 2023",
-    desc: "I earned my Bachelor's Degree in Computer Science, specializing in Full Stack Web Development and DevOps, from Hassan 1 University. This program equipped me with a deep understanding of both front-end and back-end development, along with essential DevOps practices. Through this journey, I developed the skills to create comprehensive digital solutions while ensuring efficient deployment. My time at Hassan 1 University solidified my passion for technology and my readiness to contribute effectively in the dynamic domains of web development and system operations.",
-    degree: "Bachelor of Computer Science, Fullstack Web development & Devops",
-  },
-
-  {
-    id: 1,
     img: "https://www.laformation.ma/images/300/eco-fllepllxfd2rfs0ibwu25xgfasf28329012016123915.jpg",
     school: "InfoDesign",
     date: "Oct 2020 - July 2022",
@@ -188,13 +195,23 @@ export const education = [
     degree: "Diploma of Specialized Technician in Computer Science",
   },
   {
+    id: 1,
+    img: "https://www.uh1.ac.ma/wp-content/uploads/2021/01/logo6.png",
+    school: "University Hassan 1",
+    date: "Oct 2022 - July 2023",
+    desc: "I earned my Bachelor's Degree in Computer Science, specializing in Full Stack Web Development and DevOps, from Hassan 1 University. This program equipped me with a deep understanding of both front-end and back-end development, along with essential DevOps practices. Through this journey, I developed the skills to create comprehensive digital solutions while ensuring efficient deployment. My time at Hassan 1 University solidified my passion for technology and my readiness to contribute effectively in the dynamic domains of web development and system operations.",
+    degree: "Bachelor of Computer Science, Fullstack Web development & Devops",
+  },
+
+  
+  {
     id: 2,
     img: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_UHIIC.png",
-    school: "University Hassan 2",
-    date: "Oct 2019 - Sep 2023",
+    school: "University of Hassan 2",
+    date: "Oct 2020 - Sep 2024",
 
     desc: "My journey at Hassan 2 University marked a significant chapter in my academic pursuit. Throughout my studies in Economics, Management, and Finance, I delved into the intricate world of financial systems and business strategies. The comprehensive curriculum provided me with a strong foundation in economic principles, management methodologies, and financial operations. These years of learning not only broadened my perspective but also cultivated my analytical and decision-making skills. My bachelor's degree stands as a testament to my dedication to understanding the complexities of economics and finance, motivating me to continually explore new horizons in the realm of financial management.",
-    degree: "Diploma in Economics and Management",
+    degree: "Bachelor of Economics, Management & Finance",
   },
 ];
 
