@@ -217,7 +217,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 0,
+    id: 2,
     title: "e-shopy",
     date: "Nov 2023",
     description:
@@ -239,7 +239,7 @@ export const projects = [
 
   
   {
-    id: 1,
+    id: 3,
     title: "Camp Traveler",
     date: "Sept 2023 ",
     description:
@@ -251,7 +251,7 @@ export const projects = [
     webapp: "https://camptraveler.com",
   },
   {
-    id: 2,
+    id: 4,
     title: "CarHub",
     date: "Nov 2023 - Jan 2023",
     description:
@@ -263,7 +263,7 @@ export const projects = [
     webapp: "https://car-hub-habdelhamid.vercel.app",
   },
   {
-    id: 9,
+    id: 5,
     title: "rick & morty wiki",
     date: "Dec 2022 - Jan 2023",
     description:
@@ -275,7 +275,7 @@ export const projects = [
     webapp: "https://react-projects-psi.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Weathery",
     date: "Apr 2022 - May 2022",
     description:
@@ -288,7 +288,7 @@ export const projects = [
     webapp: "https://theweatherapp-theta.vercel.app",
   },
   {
-    id: 10,
+    id: 1,
     title: "Metaversus",
     date: "May 2024",
     description:
@@ -305,7 +305,7 @@ export const projects = [
     github: "https://github.com/HAbdelhamid/metaverse_app",
     webapp: "https://metaversy.vercel.app/",
   },{
-    id: 10,
+    id: 0,
     title: "Astra",
     date: "Dec 2023",
     description:
