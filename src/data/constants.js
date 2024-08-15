@@ -268,7 +268,7 @@ export const projects = [
     date: "Dec 2022 - Jan 2023",
     description:
       "rick & morty wiki is a web application designed to share information about the tv show. It provides a lot of information about the characters, locations and episodes",
-    image: "https://photos.fife.usercontent.google.com/pw/AP1GczMKKrx8-x3wKgMX25v5AqOmj-nNTOQdukLraKVYa6T3XjRj2f4vgkU=w1348-h623-s-no-gm?authuser=0",
+    image: "https://lh3.googleusercontent.com/pw/AP1GczOajbwFzsD-FNiy2i187CvD3dntDioRqRB5Mf3ky_2b3smqqiRFHnOfMTeBep6Y0lP_7VOP_mffd9DCNS84X3L3d5S2onn7cGtDvAbdDBT5WbZva8BWBvD-6SJ9wajmrils1c7AdJ7X4_0MHQDbJ7Y=w1348-h623-s-no-gm?authuser=0",
     tags: ["React Js", "Redux", "GraphQL", "Tailwind CSS"],
     category: "web app",
     github: "https://github.com/HAbdelhamid/rick-morty-wiki",
@@ -293,7 +293,7 @@ export const projects = [
     date: "Oct 2022 - Oct 2022",
     description:
       "METAVERSUS delivers a sleek and responsive user interface, crafted with Next.js for optimal performance and scalability. The integration of Framer Motion ensures smooth and engaging animations, creating a dynamic user experience. Utilizing Redux for state management and Tailwind CSS for streamlined styling, the project exemplifies best practices in modern web development.",
-    image: "https://photos.fife.usercontent.google.com/pw/AP1GczMjMcs6X0rUfkL506EO7w-VCGxZKl7kZjUFhFlL6yH1I42snxWqat4=w1342-h645-s-no-gm?authuser=0",
+    image: "https://lh3.googleusercontent.com/pw/AP1GczMhBp9qdQ_ajJwuTHrO1uAALgUKG_gKKnf0e1ZqDbIwtyGn54q8y9YRgudSC8zVUHQqZ_0U3naXaulHTf5R_q_HlHQQnYNSGGCJPN0bQ05I37Zm3jKICDFmnDnCS4IWjmGxoWtauhAPynvWavHOJzs=w1342-h645-s-no-gm?authuser=0",
     tags: [
       "Next Js",
       "Tailwind CSS",
