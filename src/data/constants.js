@@ -217,6 +217,41 @@ export const education = [
 
 export const projects = [
   {
+    id: 1,
+    title: "Metaversus",
+    date: "May 2024",
+    description:
+      "METAVERSUS delivers a sleek and responsive user interface, crafted with Next.js for optimal performance and scalability. The integration of Framer Motion ensures smooth and engaging animations, creating a dynamic user experience. Utilizing Redux for state management and Tailwind CSS for streamlined styling, the project exemplifies best practices in modern web development.",
+    image: "https://lh3.googleusercontent.com/pw/AP1GczMhBp9qdQ_ajJwuTHrO1uAALgUKG_gKKnf0e1ZqDbIwtyGn54q8y9YRgudSC8zVUHQqZ_0U3naXaulHTf5R_q_HlHQQnYNSGGCJPN0bQ05I37Zm3jKICDFmnDnCS4IWjmGxoWtauhAPynvWavHOJzs=w1342-h645-s-no-gm?authuser=0",
+    tags: [
+      "Next Js",
+      "Tailwind CSS",
+      "Node Js",
+      "Redux",
+      "Framer Motion",
+    ],
+    category: "web app",
+    github: "https://github.com/HAbdelhamid/metaverse_app",
+    webapp: "https://metaversy.vercel.app/",
+  },{
+    id: 0,
+    title: "Astra",
+    date: "Dec 2023",
+    description:
+      "Astra is a modern, fully responsive website built with a powerful tech stack. This project showcases the use of Next.js for server-side rendering, TailwindCSS for sleek styling, shadcn UI for elegant components, and Clerk for secure authentication.",
+    image: "https://lh3.googleusercontent.com/pw/AP1GczNdM9c9g5Pyce60-IWyV_UDkdNYHXqGQTilLVsImsDF7xE8sqhjbdxp5-KuudemmEhnnvhARJTX1NNgagDF_5KjiPJTHavdeHN1gwGZU_UrSkcTdCH0YqjZfA8wq_E6DeRRnSpG64zYr0uNNndpGyM=w1364-h645-s-no-gm?authuser=0",
+    tags: [
+      "Next Js",
+      "Tailwind CSS",
+      "Node Js",
+      "Shadcn UI",
+      "Clerk Auth",
+    ],
+    category: "web app",
+    github: "https://github.com/HAbdelhamid/Astra_app",
+    webapp: "https://astra-ai-app.vercel.app/",
+  },
+  {
     id: 2,
     title: "e-shopy",
     date: "Nov 2023",
@@ -287,41 +322,7 @@ export const projects = [
     github: "https://github.com/HAbdelhamid/Weathery",
     webapp: "https://theweatherapp-theta.vercel.app",
   },
-  {
-    id: 1,
-    title: "Metaversus",
-    date: "May 2024",
-    description:
-      "METAVERSUS delivers a sleek and responsive user interface, crafted with Next.js for optimal performance and scalability. The integration of Framer Motion ensures smooth and engaging animations, creating a dynamic user experience. Utilizing Redux for state management and Tailwind CSS for streamlined styling, the project exemplifies best practices in modern web development.",
-    image: "https://lh3.googleusercontent.com/pw/AP1GczMhBp9qdQ_ajJwuTHrO1uAALgUKG_gKKnf0e1ZqDbIwtyGn54q8y9YRgudSC8zVUHQqZ_0U3naXaulHTf5R_q_HlHQQnYNSGGCJPN0bQ05I37Zm3jKICDFmnDnCS4IWjmGxoWtauhAPynvWavHOJzs=w1342-h645-s-no-gm?authuser=0",
-    tags: [
-      "Next Js",
-      "Tailwind CSS",
-      "Node Js",
-      "Redux",
-      "Framer Motion",
-    ],
-    category: "web app",
-    github: "https://github.com/HAbdelhamid/metaverse_app",
-    webapp: "https://metaversy.vercel.app/",
-  },{
-    id: 0,
-    title: "Astra",
-    date: "Dec 2023",
-    description:
-      "Astra is a modern, fully responsive website built with a powerful tech stack. This project showcases the use of Next.js for server-side rendering, TailwindCSS for sleek styling, shadcn UI for elegant components, and Clerk for secure authentication.",
-    image: "https://lh3.googleusercontent.com/pw/AP1GczNdM9c9g5Pyce60-IWyV_UDkdNYHXqGQTilLVsImsDF7xE8sqhjbdxp5-KuudemmEhnnvhARJTX1NNgagDF_5KjiPJTHavdeHN1gwGZU_UrSkcTdCH0YqjZfA8wq_E6DeRRnSpG64zYr0uNNndpGyM=w1364-h645-s-no-gm?authuser=0",
-    tags: [
-      "Next Js",
-      "Tailwind CSS",
-      "Node Js",
-      "Shadcn UI",
-      "Clerk Auth",
-    ],
-    category: "web app",
-    github: "https://github.com/HAbdelhamid/Astra_app",
-    webapp: "https://astra-ai-app.vercel.app/",
-  },
+ 
 ];
 
 export const TimeLineData = [
