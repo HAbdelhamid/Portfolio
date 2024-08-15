@@ -289,22 +289,21 @@ export const projects = [
   },
   {
     id: 10,
-    title: "Netfilm",
+    title: "Metaversus",
     date: "Oct 2022 - Oct 2022",
     description:
-      "Netfilm is a project that provide to users with information about searched movies like date of release titles and also can watch movies and tv-shows ect.",
-    image: "https://i.ibb.co/zStLcFb/Screenshot-2023-11-19-223347.png",
+      "METAVERSUS delivers a sleek and responsive user interface, crafted with Next.js for optimal performance and scalability. The integration of Framer Motion ensures smooth and engaging animations, creating a dynamic user experience. Utilizing Redux for state management and Tailwind CSS for streamlined styling, the project exemplifies best practices in modern web development.",
+    image: "https://photos.fife.usercontent.google.com/pw/AP1GczMjMcs6X0rUfkL506EO7w-VCGxZKl7kZjUFhFlL6yH1I42snxWqat4=w1342-h645-s-no-gm?authuser=0",
     tags: [
-      "React Js",
-      "MongoDb",
+      "Next Js",
+      "Tailwind CSS",
       "Node Js",
-      "Express Js",
       "Redux",
-      "NodeMailer",
+      "Framer Motion",
     ],
     category: "web app",
-    github: "https://github.com/HAbdelhamid/Movie-app",
-    webapp: "https://netfilm.app",
+    github: "https://github.com/HAbdelhamid/metaverse_app",
+    webapp: "https://metaversy.vercel.app/",
   },
 ];
 
