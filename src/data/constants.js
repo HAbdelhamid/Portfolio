@@ -252,6 +252,19 @@ export const projects = [
     webapp: "https://astra-ai-app.vercel.app/",
   },
   {
+    id: 7,
+    title: "VR Platform",
+    date: "Feb 2024",
+    description:
+      "Crafted using Vite.js, Tailwind CSS, Redux, and shadcn, this landing page serves as an engaging introduction to a cutting-edge Virtual Reality software platform. The design focuses on a modern, responsive UI that highlights the platform's key features and immersive capabilities. By leveraging efficient state management and styling, the page ensures a seamless user experience that reflects the innovative nature of the VR technology.",
+    image:
+      "https://lh3.googleusercontent.com/pw/AP1GczNAA6z9nmFDwblkyEWKcgqHDiI3cnD89Y9i9XYI9M1X6WDXPp2LApupsTKC656PwchLbHOvGNl4-3fcUSJB-I_HoPtYbqW3x0-HFkGF0YXKcaePvw5A6aerPKMxeXfyjLup3z_DDdtY1QQ8WnQ4L4o=w1026-h544-s-no-gm?authuser=0",
+    tags: ["React Js", "Vite js", "Shadcn UI", "Node Js", "Redux"],
+    category: "web app",
+    github: "https://github.com/HAbdelhamid/vr-platform",
+    webapp: "https://vr-platform.vercel.app/",
+  },
+  {
     id: 2,
     title: "e-shopy",
     date: "Nov 2023",
