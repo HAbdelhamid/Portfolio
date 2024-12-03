@@ -156,8 +156,8 @@ export const experiences = [
     img: "https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/b1/11/04/b1110458-2fc8-7205-fe45-5e695c8118ef/source/512x512bb.jpg",
     role: "Frontend Developer",
     company: "Yogobe",
-    date: "Dec 2022 - April 2023",
-    desc: "During my exciting internship at Yogobe, I took the reins as a Front-End Developer, harnessing the power of Next.js, GraphQL, and Styled Components to craft captivating user experiences. My journey was fueled by transforming intricate designs into elegant front-end components, and I spearheaded the art of refactoring Next.js components for optimized performance.",
+    date: "Dec 2022 - Present",
+    desc: "I took the reins as a Front-End Developer at Yogobe, harnessing the power of Next.js, GraphQL, and Styled Components to craft captivating user experiences. My journey was fueled by transforming intricate designs into elegant front-end components, and I spearheaded the art of refactoring Next.js components for optimized performance.",
     skills: [
       "Next Js",
       "HTML/CSS",
@@ -167,21 +167,7 @@ export const experiences = [
     ],
     doc: "",
   },
-  {
-    id: 2,
-    img: "https://media.licdn.com/dms/image/D560BAQHhSRkwAPB8oA/company-logo_200_200/0/1719255985352/yallalearn_logo?e=1731542400&v=beta&t=hRHy95jUspi-kvRtaZYDVVpTZmoR3jHcrUGfSDoQKiI",
-    role: "Frontend Developer",
-    company: "Yallalearn",
-    date: "May 2024 - Present",
-    desc: "Develop responsive websites using React.js and Next.js, ensuring seamless user experiences across various devices and screen sizes.Ensure cross-browser compatibility, delivering consistent functionality and design across all major browsers. Contribute to Agile development by actively participating in sprint planning, daily stand-ups, and retrospective meetings. Support timely feature delivery by collaborating closely with team members and adhering to Agile practices.",
-    skills: [
-      "Next Js",
-      "HTML/CSS",
-      "TypeScript",
-      "Tailwind CSS",
-    ],
-    doc: "",
-  },
+ 
   
 ];
 
